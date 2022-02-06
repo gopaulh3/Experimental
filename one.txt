@@ -1,1 +1,3 @@
 The first file to trial
+
+Now I'm going to add one more sentence here and then add and commit it. 
