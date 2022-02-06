@@ -3,3 +3,5 @@ The first file to trial
 Now I'm going to add one more sentence here and then add and commit it. 
 
 And then a man came and added yet another sentence!
+
+And then a spider came along and asked me if I can lend him some money. I said no.
